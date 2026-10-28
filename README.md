@@ -10,7 +10,7 @@ This project simulates a real-world **Healthcare Rvenue Cycle Managment (RCM)** 
 
 ## Key Business Insights Uncovered
 1. Top loss by Insurance Type: Commercial insurance accounts for our highest financial loss ($27,386 across 89 denied claims), followed closely by self-pay. 
-2. primary Denial Reason Codes: "Incorrect billing information" ($15,261) and "Authorization not obtained" ($13,636) are the leading operational bottlenecks driving revenue leakage.
+2. Primary Denial Reason Codes: "Incorrect billing information" ($15,261) and "Authorization not obtained" ($13,636) are the leading operational bottlenecks driving revenue leakage.
 
 ## Project Strucutre
 ```text
