@@ -1,7 +1,7 @@
 # Medical Insurance Denials & Rvenue cycle Recovery Analysis
 
 ## Project overview
-This project simulates a real-world **Healthcare Rvenue Cycle Managment (RCM)** data analysis pipeline. As a reporting analyst, the objective is to ingest raw claims data, build a strucutred relational database, annd excecute SQL queries to uncover root causes for insurance claim denials, lost revenue, and carrier performance.
+This project simulates a real-world **Healthcare Rvenue Cycle Managment (RCM)** data analysis pipeline. As a reporting analyst, the objective is to ingest raw claims data, build a strucutred relational database, and excecute SQL queries to uncover root causes for insurance claim denials, lost revenue, and carrier performance.
 
 ## Tech Stack & Tools
 * **Language:** Python (Pandas, SQLite3, OS)
