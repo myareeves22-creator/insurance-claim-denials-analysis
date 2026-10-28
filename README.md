@@ -9,7 +9,7 @@ This project simulates a real-world **Healthcare Rvenue Cycle Managment (RCM)** 
 * **Version Control:** Git & GitHub
 
 ## Project Strucutre
-'''text
+```text
 insurance-claim-denials-analysis/
 |
 ├── data/
